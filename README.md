@@ -1,2 +1,2 @@
 # Bearing-Fault-Detection-using-Support-Vector-Classifier-SVC-
-Successfully implemented a Support Vector Classifier (SVC) for Bearing Fault Detection, achieving 100% accuracy using Python and the publicly available CWRU Dataset.
+Bearings are crucial in rotating machinery, and their failure can cause severe mechanical breakdowns. This research uses a Support Vector Classifier (SVC) to detect bearing faults. Vibration signals are analyzed, and features are extracted and standardized using StandardScaler. The SVC model classifies bearing conditions into normal, inner race fault, outer race fault, and ball fault with 100% accuracy, enabling timely detection and prevention of costly repairs.
